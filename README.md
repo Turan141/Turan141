@@ -1,6 +1,6 @@
 ![Veliyev Turan Banner](https://i.ibb.co/y8h2m3r/banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Turan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
