@@ -41,8 +41,3 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="mailto:darkhero@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/__2run__"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
